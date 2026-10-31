@@ -6,6 +6,16 @@ CellScope is a battery-aging analysis workbench. It uses cycle-level test measur
 
 The project demonstrates a complete small ML workflow: synthetic data generation, cell-level holdout evaluation, feature engineering, model inference, an interactive dashboard, and a reproducible local setup.
 
+## Screenshots
+
+### Anomaly review
+
+![CellScope anomaly review with flagged battery cycles](assets/cellscope-anomaly-review.png)
+
+### Battery health dashboard
+
+![CellScope state-of-health and remaining-life dashboard](assets/cellscope-dashboard.png)
+
 ## Run locally
 
 Python 3.10 or newer:
